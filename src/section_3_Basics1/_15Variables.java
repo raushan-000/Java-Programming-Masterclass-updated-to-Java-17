@@ -1,4 +1,4 @@
-package section_3;
+package section_3_Basics1;
 
 public class _15Variables {
 public static void main(String[] args) {

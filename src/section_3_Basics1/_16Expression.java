@@ -1,4 +1,4 @@
-package section_3;
+package section_3_Basics1;
 
 public class _16Expression {
 	public static void main(String[] args) {
@@ -9,5 +9,7 @@ public class _16Expression {
 		int myTotal = myNumber1 + myNumber2 + myNumber3 + myNumber4;
 		System.out.println(myTotal);
 		System.out.println(myNumber1 * 3);
+		int myNumber5 = myNumber1 - 10;
+		System.out.println(myNumber5);
 	}
 }

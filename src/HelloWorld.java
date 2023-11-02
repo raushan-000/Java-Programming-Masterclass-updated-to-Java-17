@@ -5,6 +5,6 @@ public class HelloWorld {
 	
 	System.out.println("hello");
 	System.out.println("hello");
-	System.out.println("this is java learning form udemy");
+	System.out.println("this is java learning from udemy");
 	}
 }
